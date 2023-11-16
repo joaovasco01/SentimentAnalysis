@@ -26,4 +26,6 @@ In this project, we explore the emotions and opinions expressed in ideas and com
 ### Results
 The resulting plot provides a visual representation of the sentiments associated with each idea and its comments. This analysis helps in understanding public opinion and emotions towards these ideas, offering valuable insights.
 
+<img width="1706" alt="Screen Shot 2023-11-16 at 10 26 33 PM" src="https://github.com/joaovasco01/SentimentAnalysis_Ideas-Comments/assets/61276111/e15ac17a-deac-486d-a3da-99fdde806a6f">
+
 ###IN PROGRESS ......
