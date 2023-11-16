@@ -26,5 +26,4 @@ In this project, we explore the emotions and opinions expressed in ideas and com
 ### Results
 The resulting plot provides a visual representation of the sentiments associated with each idea and its comments. This analysis helps in understanding public opinion and emotions towards these ideas, offering valuable insights.
 
-### Conclusion
-This script effectively demonstrates how sentiment analysis can be applied to real-world data, providing a straightforward and visual approach to understanding complex emotional data.
+###IN PROGRESS ......
