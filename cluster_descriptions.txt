@@ -1,0 +1,360 @@
+ID: 100
+Description: Há muitas pessoas sozinhas em casa que não sabem como aproveitar da melhor forma este tempo, também pais e mães que já não têm mais ideias de como entreter as crianças, pessoas que emocionalmente se sentem ansiosas.A informação de como passar bem o tempo, de nos entretermos está dispersa, a ideia era criar um site que condenasse toda essa informação, de entretenimento e bem-estar.- Dicas de coisas para fazer em casa com os miúdos- Divulgação de plataformas de filmes e series - Divulgação e explicação de uso de aplicações que permitem fazer video conferência - whatsApp, houseparty, zoom- Receitas de comida saudável- Divulgação de workshops de bem estar que se pode fazer online - ginástica, yoga, meditações.....- Divulgação de workshops onde se pode aprender a fazer alguma coisa- Voluntariado à distância 
+
+ID: 101
+Description: Vários profissionais vão estar muito pressionado a durante o pico desta pandemia a nível de carga de trabalho, cansaço, e exposição ao Covid-19. Estabelecendo uma parceria com hotéis próximos dos principais hospitais, uma alternativa de acomodação / alimentação temporária seria sugerida a estes profissionais. Seria particularmente útil para:
+1) Profissionais que vivem longe dos hospitais onde servem, oferecendo maior oportunidade de repouso e condições
+2) Proteger pessoas de risco com as quais os profissionais possam viver.
+3) Proteger a propagação para outros indivíduos, caso os profissionais compartam casa com outros.
+Naturalmente, esta não é uma situação agradável a longo prazo, mas uma possibilidade que se pode revelar bastante útil durante um período a escolher por cada profissional, para começar daqui a 2-3 semanas, em preparação para o início do pico da crise.
+
+ID: 130
+Description: Podemos fazer um levantamento do que as pessoas sabem fazer e suas competências: costura, marcenaria, culinária, línguas, etc e montar uma rede de troca de serviços onde nos inscrevemos para dar algo, ganhamos créditos e podemos trocar por algo que precisamos. As pessoas podem dar aulas online ou apenas receber encomendas para fazer sacos ou malas ou criar algo de que precisamos.
+
+ID: 135
+Description: Que as equipas dos Serviços Partilhados do Ministério da Saúde (SPMS), as Administrações Regionais de Saúde (ARS) e Agrupamentos de Centros de Saúde (ACES) operacionalizem nas plataformas digitais de saúde (nomeadamente o SClínico) uma forma dos profissionais de saúde poderem aceder remotamente ao SClínico e se manterem a trabalhar em áreas com menor exposição de risco ou a partir de casa.
+
+ID: 155
+Description: Ajudaria a gamificar e recompensar atitudes positivas.
+
+ID: 153
+Description: Disclaimer: Não sou o autor desta ideia -> Só estou a colocar na plataforma (via curadoria) para ganhar força.
+O SOS Vizinho é um projeto que juntou até agora mais de 70 especialistas de várias áreas e zonas do país, para organizar uma rede de apoio a grupos de risco que neste momento se devem encontrar em isolamento social. O projeto surgiu online, organizou-se remotamente e lançou-se em 48 horas.
+O objetivo é ajudar a sinalizar os grupos/doentes de risco de cada região e criar uma rede de distribuição, através de voluntários que se inscrevem online. O SOS Vizinho pretende, assim, fazer chegar a estas pessoas os bens essenciais que necessitam, evitando que saiam das suas casas e, consequentemente, estejam mais expostas.
+https://sosvizinho.pt/
+
+ID: 186
+Description: Criar um site com um grupo de Contos e histórias infantis para os mais pequeninos e os seus pais ou familiares.
+o site serve para publicar vídeos com histórias contadas por pais e familiares para os pequeninos poderem estar distraídos e aprender com os outros
+
+ID: 193
+Description: Pegando na ideia *Ultilizacao do Elevador* e indo um pouco mais longe, aqui o objetivo seria juntar todos os condóminos via qualquer software de comunicação (chat, skype, discord, etc...) e dividir responsabilidades do prédio por todos os condóminos. Por exemplo, cada um desinfeta o seu andar à vez; ou põem desinfetantes junto às portas comuns, incluindo a porta do prédio, ect...
+Colocando avisos na entrada no prédio para todos estarem a par.
+O que podemos fazer com a coordenação de todos os condóminos:
+
+Colocar desinfetante no hall do prédio.
+Desinfetar as caixas do correio.
+Desinfetar as campainhas.
+Desinfetar as portas e suas maçanetas.
+Desinfetar os elevadores, botões, corrimões e portas.
+Gerir utilização do elevador:
+
+Se já estiver alguém lá dentro, espera-se pelo seguinte.
+Se estiver com pessoas mais idosas, grávidas ou com alguma necessidade mais urgente, dar prioridade.
+Usar o bom senso.
+Dividir a utilização para diminuir possibilidade de contágio:
+
+Até ao segundo andar usam as escadas sempre que possível.
+Os restantes usam o elevador.
+
+
+
+
+
+
+ID: 194
+Description: Um café virtual e dois dedos de conversa, uma lufada de ar fresco.
+Imagine que vai à copa do piso onde trabalhava e estão lá outros, descontraidamente, na converseta, a falar de tudo e de coisa nenhuma.
+São 10-15 minutos com uma nova tribo alargada, para se inspirar e ganhar ânimo para o dia. 
+
+ID: 196
+Description: Consoante os membros do agregado familiar selecionar um conjunto de produtos para nos entreter nos tempos livres, para cuidarmos de nós e para limpeza/proteção. As pessoas poderiam encomendar uma só Corona Box ou, por exemplo, uma por semana.
+Exemplos de produtos que conteria a caixa:
+
+Para entreter: livro para adultos, livro para crianças, livros de palavras cruzadas, revistas, jogo de tabuleiro, kit para trabalhos manuais, kit para jardinagem, kit de bricolage.
+Para cuidarmos de nós: creme, shampoo, pasta de dentes
+Para cuidarmos de nós em época Covid: álcool, desinfectante, lixívia, luvas, etiquetas para separação de zonas, panos de limpeza, esponjas
+Para aumentar a imunidade
+
+Os produtos iam variando ao longo dos meses.
+Esta ideia é inspirada na mimobox, que são caixas surpresa para mães e bebés, que normalmente são oferecidas no pós-parto.
+
+ID: 197
+Description: O grande objetivo do jogo será dar a conhecer aos seus jogadores todos os vírus conhecidos pela humanidade.
+A jogabilidade terá parecenças com o jogo *Pandemic*, sendo diferente o objetivo. Enquanto no *Pandemic* o objetivo passa por infetar o mundo, aqui o objetivo acaba por ser sempre curar o mundo.
+Representando a OMS (Organização Mundial de Saúde), teremos de gerir surtos de vírus e tomar as devidas decisões de acordo com a particularidade do vírus em questão. Desta forma, os jogadores, passam a familiarizar-se com vários vírus e sobre o que fazer para cada um. Será também necessário decidir onde investir o dinheiro, seja na investigação, construção de laboratórios, hospitais, formação de profissionais de saúde, entre outros. A contar para o desenrolar do jogo, a população teria impacto com os seus impostos e com a sua revolta ou apoio às decisões do jogador.
+A pensar no futuro, poder-se-ia atualizar os tipos de vírus com a nossa realidade.
+Ter ajuda de alguém relacionado com a área da saúde seria uma grande mais valia.
+
+Proposta de primeira fase para 2 semanas de muito trabalho :)
+
+CALAMITY
+O Jogo Dos Vírus
+
+Browser game parece-me o ideal para isto. 
+Jogador faz registo, ou seleciona apenas um alias, e é lhe atribuído um pedaço de terra (poderá talvez escolher nível de dificuldade) e terá de cuidar da sua população.
+Para ser concretizado, uma primeira fase, em menos de 2 semanas.
+Parâmetros do país:
+
+Estado da população  (saudáveis, a aguardar resultado do teste, infectados, recuperados e óbitos)
+Descontentamento da população
+Popularidade do regente do país (será o jogador)
+Tesouraria do país
+Nº de hospitais
+Nº de médicos
+Nº de laboratórios
+Nº de técnicos
+Nº de esquadras
+Nº de polícias
+Estado das fronteiras (abertas, condicionadas ou fechadas)
+Equipamento médico disponível
+
+Parâmetros do vírus:
+
+Percentagem de infecciosidade
+Percentagem de letalidade
+Percentagem de severidade
+Como se propaga
+Sintomas
+Tipo de Contágio
+Grupo Etário
+
+Objetivo do jogo:
+
+Conter a propagação do vírus
+Eliminar o vírus por completo
+
+Prólogo:
+O seu país acaba de ser infectado por um novo vírus desconhecido. Acabou de ser detectado no [norte/sul/etc] um caso positivo para este vírus. 
+O vírus tem o nome técnico de  COVID-19 …(breve explicação do vírus)…
+Terá de proteger a sua população e conter a propagação do vírus.
+Opções do jogador:
+ (Devem variar consoante o estado do país do jogador)
+
+Fechar fronteiras
+Isolar infetados
+Investir em médicos
+Investir em laboratórios
+Investir em técnicos
+Ativar diferentes estados no país (estado de emergência, calamidade, outros)
+Isolar suspeitos de estarem infetados
+Fechar economia (total/parcialmente)
+
+
+ID: 226
+Description: Neste momentos as clínicas dentarias, clinicas veterinarias, clínicas privadas, SPAs, gabinetes de estetica e consultórios vão cessar ou reduzir funções. A OMD já emitiu recomendações às clínicas dentárias nesse sentido.
+Tendo em conta que vão ter excedentes de stock de luvas, mascaras e álcool, deviamos criar um grupo/banco para recolher estes recursos como medida temporária de recurso e canalizar para hospitais e funções de risco (polícia, equipas de recolha de lixo, assistentes de supermercados..). Medida de recurso até serem fornecidos com novas encomendas.
+
+ID: 227
+Description: APP que permita a cada pessoa escolher, antes de sair de casa, qual o melhor supermercado ou farmácia para fazer as suas compras. Os utilizadores deverão fazer check in quando chegam à fila e check out depois de sair do estabelecimento comercial. Deverão, de uma lista já estabelecida, identificar que produtos de 1ª necessidade estão em falta naquele estabelecimento. Poderão tb ser indicados horários de funcionamento e outras informações relevantes. Lista produtores com cabazes de entrega em casa.
+
+ID: 228
+Description: Deviamos usar hoteis vazios para instalar apenas pessoas com covid que nao tenham os sintomas mais graves em vez de manda-las para casa para infetar a familia e possivelmente mais algumas pessoas. Os hoteis têm todas as condiçoes para receber mais de 500 pessoas. A alimentaçao era deixada à frente do hotel em refeiçoes individuais e depois vinha alguns dos infetados recolher e levavam para o restaurante do hotel onde todos iam comer no restaurante do hotel.So em caso do estado de saude de algum paciente se agravar entao era mandado para o hospital. Montavam um serviço de saude á frente do hotel para alguma emergencia e cada pessoa que ja tivesse no hotel à 20 dias ia la fazer o teste para ver se ja tava livre do covid e se tivesse ja saia de la mas tinha de tomar um banho nesse serviço de saude com algum tipo de desinfetante e vestia roupa limpa. Esta minha ideia é porque a maior parte dos infetados têm sintomas ligeiros e andam por ai a infetar mais pessoas principalmente idosos que sao os mais criticos. E em vez de fazer quarentena em casa a tentar se isolar da propria familia ia para um sitio em que ja tavam todos infetados e onde tem todas as codiçoes para receber pessoas. Era uma coisa muito simples de fazer so que era preciso algum dono de um hotel disponibilizar o seu hotel e o governo depois devia ter esses hoteis em conta e recompensar de alguma forma.
+
+ID: 230
+Description: Há uma pizzaria que entrega ao domicílio (Telepizza) que tem, geralmente, lojas nas instalações de uma cadeia de supermercados (Intermarché) (pelo menos, na região onde eu vivo - Alentejo). A ideia seria o serviço de entregas da Telepizza poder levar bens essenciais a idosos e outros indivíduos de alto risco, adquiridos no Intermarché (mediante acordo entre as duas empresas). Os entregadores estariam munidos de equipamento de proteção individual (máscaras), e teriam de ter os devidos cuidados para prevenir contágios. Os pedidos deveriam poder ser feitos pelo telefone (já que muitos idosos não dominam/dispõem de novas tecnologias)
+
+ID: 258
+Description: Partilha de informação de jogos online para maiores de 50 anos e por áreas temáticas.
+
+ID: 262
+Description: Desenvolver uma aplicação e/ou serviço telefónico em parceria ou alternativa ao da saúde24 onde o doente pode telefonar ou utilizar a aplicação (que poderia estar acessível através de um dos websites do SNS) para descrever os sintomas que tem até à data através de perguntas sim ou não (ex: tem tosse? se sim, na app clica sim e no serviço telefónico clica 1). O serviço telefónico seria de atendimento automático (como quando ligamos para qualquer operadora telefónica) e registaria os dados de resposta do utente. Se o utente demonstra-se o sintoma X que é preocupante ou um conjunto de sintomas que parecem de risco (critério que precisaria de ser definido) seria a chamada encaminhada para um médico ou profissional de saúde disponível (depende dos médicos associados ao sistema), caso contrário ofereceria uma resposta pré-gravada que diria ao utente que para já se encontra estável e se deve manter em isolamento. Com a aplicação, o conceito seria o mesmo mas a resposta direta seria o agendamento de tele-consulta ou telefonema com o médico disponível (mais uma vez depende dos médicos associados ao sistema), caso contrário mostra a mesma mensagem que é dada por telefone ao utente.
+Seria possível ao sistema guardar dados do utente como idade, género e prevalência de doença respiratória ou imunodeficiência - por telefonema associado ao número de telefone, por aplicativo associado ao email. As perguntas feitas por este sistema automático seriam as mesmas feitas por um operador da saúde 24
+
+ID: 268
+Description: Promover o acesso de empresas info excluídas às vendas online
+
+ID: 289
+Description: Implementar um serviço de venda de produtos por marcação telefónica nos Supermercados, Farmácias e outros serviços essenciais à semelhança da Segurança Social. O cliente telefona e faz o pedido, a empresa regista e prepara o cabaz, depois marca uma hora e o cliente vai recolher.
+
+ID: 293
+Description: Dos poucos profissionais independentes que conheço, sei que alguns dão aulas, explicações, entre outros.
+Neste caso recomendo usarem as ferramentas online, confcall, videoconferencia, entre outros disponíveis e gratuitos nestes proximos meses, para dar continuidade à sua atividade e aos seus formandos.
+Ex. Teams, Zoom, Hangouts, trello, slack, entre outras, .
+
+ID: 295
+Description: Um diretório que permite divulgação de serviços de profissionais independentes na área da Comunicação em Meio Digital que forneçam serviços para negócios que estão autorizados a laborar.
+
+ID: 299
+Description: Criação de uma plataforma de registo de necessidades dos indivíduos mais frágeis, por zona. A pessoa caso não tenha ninguém para a ajudar a preencher na plataforma, teria um número de contacto para do lado de cá registarmos o que mais precisa para uma semana. Essa lista seria partilhada com os supermercados com os quais teríamos o género de uma parceria, onde um funcionário se encarregava de recolher esses mesmos bens e tê-los prontos para o voluntário levantar e entregar. Refiro ter uma funcionário da loja por ser mais rápido e mais seguro a nível higiénico. Caso não fosse possível ter um funcionário a realizar esta tarefa, o voluntário teria prioridade num período horário com menos pessoas, para entrar no supermercado. Consoante a afluência de cada zona e para ser mais rápido e flexível, dividíamos a compras por diversos supermercados da zona. Esta plataforma terá uma zona de registo de pessoas voluntárias, onde lhe é atribuída 1 ou mais encomendas.
+
+ID: 301
+Description: Com o medo de contágio, existem equipas de ronda noturna responsáveis pela distribuição de refeições a sem abrigos e famílias/indivíduos carenciados que não estão disponíveis para continuar as suas atividades.
+Podiam ser definidos pontos de drop/picking para esta população continuar a ser apoiada - igrejas, juntas de freguesia, escolas, etc. Concertado entre instituições e pontos de drop&pickup. Ao mesmo tempo que pode ser lançada uma campanha com supermercados/mercearias/restaurantes para recolha ou drop de excedentes nestes pontos previamente definidos.
+
+ID: 321
+Description: Criação de um site nacional de suporte a grupos de apoio comunitário locais, seguindo o exemplo do Covid Mutual Aid UK no Reino Unido.
+A ideia é ter um grupo de voluntários a apoiar os grupos comunitários locais, durante o surto de COVID-19, com o foco em fornecer recursos e conectar pessoas.
+O site incluiria
+
+mapa com os grupos locais;
+listagem dos grupos e link para respetiva página no Facebook (por inscrição);
+recursos para os grupos (e.g. atividades que os grupos estão a organizar; modelos de impressos de divulgação, partilha de boas práticas);
+
+
+ID: 322
+Description: Um app para ajudar os pais e cuidadores a manterem horarios e tarefas de homeschooling, e ao mesmo incentivar as criancas a fazer os trabalhos de casa e manterem as actividades curriculares adaptadas a nova situacao de homeschooling.
+
+ID: 324
+Description: Grupos de apoio locais, composto por professores, explicadores e formadores para dar apoio às crianças que não tenham computador em casa ou internet para seguir as aulas online dos seus professores.
+
+ID: 358
+Description: Facultar um dia de descanso a todos os funcionários.
+
+ID: 362
+Description: Para os PT Personal trainers - poder dar aulas / exercicios online / youtube ou streaming.
+No caso dos PTs dos Ginásios, estes ficaram sem clientes, com os ginásios fechados e as aulas privadas, recomendo fazerem videos de aulas , ou caso os clientes queiram contratar fazer aulas exercios por video conferencia / streaming.
+
+ID: 385
+Description: Utilizar uma plataforma para facilitar mediatações guiadas diárias que possam ajudar a quem já faz ou quem nunca fez meditação. Poderá haver também pequenas reflexões, ou convidar as pessoas a partilhar sobre como se sentem.
+
+ID: 386
+Description: Os doentes graves de covid19 podem precisar de ventilação mecânica e para isso têm que ser intubados por médico. O acto da intubacao tem um risco alto de aerossolização e produção de fómites com risco aumentado de infecção para os profissionais de saúde e outros doentes. A utilização de equipamentos de barreira que permitam encapsulate a cabeça do doente mas com espaço suficiente para que as mãos trabalhem dentro da cápsula permite diminuir muito o risco para quem intubar e o risco contaminação a dos espaços com risco para outros doentes. Essa estrutura tem que ser feita em material leve, transparente, de uso único e que permita o trabalho das mãos de 1 médico e de um enfermeiro. Já existem modelos caseiros feitos por anestesistas portugueses onde eu me incluo. Se conseguíssemos apoio para criação destes sistemas/equipamentos que são muito pouco sofisticados podemos evitar risco de contágio associado a estes momentos, sobretudo nos blocos operatórios.
+
+ID: 417
+Description: Criar um site/plataforma que ajude quem está em casa a fazer um diagnóstico ambiental/energético da sua casa. Além disso o mesmo compilaria sugestões/ideias de como melhorar a nossa habitação a esse nível. As propostas poderiam abranger tanto um nível mais técnico, como uma categoria relacionada com hábitos/boas práticas quer formas de reduzir, reutilizar ou reciclar o que temos em casa.
+
+ID: 418
+Description: Um plataforma live interactiva que reproduza ambientes socais (1) o café, (2) outros.
+Cada sala representa um espaço social em moldes de video conferência em conjunto com animação em realidade virtual.
+A entrada está sujeita a um tema / regras (v.g. sem álcool, Wine lovers, Book lovers, Yoga lovers, Noite branca, etc). Cada participante deverá ter consigo um elemento ou cumprir com alguma(s) regra(s) de forma a que todos se possam sentir mais próximos e assim mitigar o obstáculo sensorial associado.
+As salas deverão ser reproduções de espaços/ estabelecimentos conhecidos nas localidades.
+Cada participante posiciona-se onde entender e reflete a sua imagem real nesse ponto da sala virtual. A Interacção depende da acção de conversação entre participantes, no entanto, periodicamente, serão colocados desafios a cada um de forma aleatória (eg. cumprimentar uma pessoa da mesa ao lado, etc).
+
+ID: 423
+Description: Criar um programa virtual para apoiar passo-a-passo a criação de um negócio digital, complementar à ocupação ou emprego atual.
+
+ID: 424
+Description: Muitos freelancers encontram-se atualmente sem procura pelos projetos a que estavam habituados a fazer para clientes em Portugal. Contudo, existem outros projetos, disponíveis em diversas plataformas e em diferentes partes do mundo, que estes poderiam fazer e por tal serem remunerados. Esta ideia consiste na criação de uma plataforma Internet contendo informações sobre plataformas e projetos suscetíveis de serem feitos por freelancers. Possibilitaria também a criação de perfis pelos freelancers, descrevendo as suas competências e experiência.
+
+ID: 425
+Description: Criar uma plataforma na Internet em que as pessoas possam conhecer e interagir com as pessoas que as rodeiam, por exemplo, vizinhos, ganhando pontos pelas interações ou tarefas realizadas a favor da sua comunidade.
+
+ID: 427
+Description: Vamos criar o maior evento virtual de Portugal, pois iremos montar um evento que todos( sim todos os portugueses , portadores de necessidades especiais e imigrantes serão inseridos)
+
+COMO SERÁ: VIVA PORTUGAL será um evento que os fornecedores (trabalhadores independentes ) irão se conectar com os tomadores (necessitados ) e os TUTORES ( crianças na escola e jovens da escola e universitários) ajudarão os tomadores( idosos e pessoas que não sabem manusear com os computadores tabletes e smartphones e tvsmart). VAMOS PARA A PRAXE; Será um site e um programa de televisão e também um aplicativo e também um tele-evento( terá um calcenter para apoio como tutores e os mesmo lançarão o desafio da semana) TODA SEMANA terá um desafio (esse desafio será de forma holística que envolvera exercícios físicos para os idosos e jovem e desafios intelectuais) com isso vamos conectar todos , cada desafio semanal será construídos por nós (equipa de formação) pois só nós saberemos nosso universo, cliente Publico alvo e tutores e trabalhadores independente. 
+
+EXEMPLO DO 1 EVENTO VIVA PORTUGAL: DESAFIO DA SEMANA; como Portugal foi um dos países mais descobridores e navegadores do mundo? (Pergunta teórica) de que forma os portugueses se vestiam e comiam(alimentação) na época? (pergunta prática de visão) como os portugueses de exercitavam de forma física nos barcos. Como os português se comunicavam com a rainha na época? (pergunta técnica).
+As resposta deverão ser filmadas e gravadas tudo que o mundo moderno oferece para dá o retorno da resposta, como tinha dito antes os tutores jovens e crianças auxiliarão os mais velhos com menos desenvolvimento no mundo digital. 
+Não haverá uma única resposta certa deverá ser um conjunto de resposta certa: logo os tomadores poderão se agrupar de forma virtual criando assim mais competição lúdica.
+
+Medias: VIVA PORTUGAL será um evento totalmente virtual ( televisivo / rádio/ ctt/ cal cente´s) todos os meios de comunicação existente menos presencial. Pois todas as medias deverá esta nesse projeto.
+
+Publico alvo; Idosos, jovens que estão na escola e universidades e até miúdos e profissionais independentes e profissionais que trabalham em tele-atendimento.
+
+Prazo: Enquanto durar a pandemia.
+
+Região do País: Em todo o território de Portugal, e quem quiser ajudar fora no estrangeiro ( portugueses e filhos ou netos ou bisnetos de portugueses que querem ajudar e participar do VIVA PORTUGAL)
+
+Prémios: A solidariedade de todos(as) pois todos serão ganhadores e saíram desse eventos com o peito cheio de solidariedade.
+
+obs: Estou a disposição para qualquer esclarecimento ; 926385695
+
+ID: 428
+Description: Neste tempo de pandemia, a Send&Store acredita que é necessário que todos os que tenham os recursos os ponham ao dispor da população.
+Neste sentido desenvolvemos um protocolo de ação que pretende fazer chegar os bens essenciais às pessoas que necessitam, evitando que saiam das suas casas, não sendo expostas ao perigo de contágio. Permitindo também que os seus familiares/conhecidos, ajudem quem mais precisem sem que seja necessário que saiam de casa
+
+Num processo simples e prático é possível fazer chegar aquilo que é necessário a quem mais necessita:
+
+Entra em contacto connosco via Whatsapp
+Indica-nos que tipo de bens pretendes enviar ( essenciais ou não essenciais)
+Indica o local de recolha e de entrega dos mesmos itens
+Enviaremos um Helper ( condutor) que irá recolher e entregar os bens no local e horário que a pessoa previamente selecionou. Não pondo em causa a segurança de nenhum dos intervenientes deste processo.
+
+Este movimento não tem qualquer tipo de fim lucrativo. O custo do serviço é exclusivamente para cobrir os custos do transporte dos bens
+Este processo terá 2 fases de implementação:
+
+1º - Via Whatsapp: para facilitar a implementação, a requisição do serviço será feito diretamente através do Whatsapp
+2º - Via App: Já estamos na fase final de adaptação da nossa aplicação mobile, para que se possa proceder à requisição do serviço via App, facilitando todo o processo.
+
+
+Para mais informações entre em contacto connosco:
+
+Email: tiago.suca1998@gmail.com
+Nº Telemóvel: 960453400
+Instagram: www.instagram.com/sendandstore
+
+
+
+
+ID: 452
+Description: Implementar um serviço de atendimento em hipermercados/ supermercados onde um grupo de pessoas selecionadas (voluntários ou não) fazem as compras pelos clientes. Os clientes registam-se, fazem o pedido e aguardam fora do estabelecimento. Quando o seu cabaz estiver pronto, paga e recolhe-o.
+
+ID: 453
+Description: Trabalho em Inglaterra, num startup na area the IoT e temos um pequeno produto que se utiliza Bluetooth para localizar objectos nas fábricas.Com uma pequena alteração do seu software, verificamos que esse mesmo dispositivo pode ser usado para detectar a proximidade de outro dispositivo igual a menos de dois metros de distancia e alerta com um som bem audível. Pode ser utilizado como um simples colar.O volume e duração do som poder se ajustado com um botão.Hoje em Inglaterra foi noticiado que empresas que ainda estão a operar no local normal de trabalho, tal como as empresas da construção, em breve podem fechar as portas porque os trabalhadores não estão a respeitar a distância minima. As consequências económicas podes catastróficas se isso acontecer em qualquer país!Esta ideia pode mudar essa decisão importante e principalmente salvar muitas vidas ao evitar um dos principais meios de contágio do virus.A sua produção é de baixo custo e poderá depois ser devolvido para nós e ser reusado como tracking device.
+Para mais informações vejam o pdf abaixo.Obrigado.
+
+ID: 455
+Description: Partindo do princípio que quem vai ser consultado tem acesso à internet e um telemóvel, tablet ou computador com colunas de som, microfone e câmera, é possível criar uma videoconferencia (VC) instantaneamente com recurso a uma plataforma gratuita e sem necessidade de registar uma nova conta.
+
+ID: 456
+Description: Plataforma online na qual editoras portuguesas disponibilizam e-books de autores portugueses e a possibilidade de reuniões literárias entre os autores dos e-books e as pessoas interessadas nesses livros. Os e-books são "alugados" por um valor simbólico, a decidir pelas editoras, durante um período determinado, e os interessados podem inscrever-se na reunião com o autor, numa data definida na plataforma, após o período de leitura previamente definido, de modo a que todos os leitores e o autor estejam em contato virtual simultâneo e debatem ideias entre si, para que a experiência seja intelectual e emocionalmente enriquecedora.
+
+ID: 457
+Description: Plataforma online de disponibilização de especialidades médicas e de clínica geral, provenientes do SNS e do sistema privado, organizadas por nome do médico, local habitual de exercício da atividade, contatos, horário das consultas virtuais e link de acesso á consulta virtual. O agendamento é feito na plataforma, em tempo real, bem como o pagamento das consultas. A prescrição médica deve ser enviada para o email ou para o contato de telemóvel, através da aplicação informática standardizada.
+
+ID: 482
+Description: O intuito é resolver as necessidades na intermediação de entrega de alimentos, remédios, e bens essenciais  que tem como objetivo conectar as empresas locais e entregadores próximos nas cidades onde não existem plataformas com essa mesma finalidade.
+
+ID: 483
+Description: A Doctorino é uma plataforma de marcações de consultas online, que tem como objectivo simplificar o processo de agendamento e garantir maior autonomia e independência dos profissionais de saúde e pacientes.
+
+ID: 481
+Description: Plataforma que permitirá a tradução voluntária de materiais promocionais (brochuras, apresentações, catálogos, vídeos) de PMEs exportadoras. A plataforma, que poderá ter formato Web e Mobile, receberá inscrições de, por um lado, tradutores voluntários especialistas em várias línguas e, por outro, de PMEs exportadoras, que disponibilizarão os materiais que pretendem traduzir. Vários tradutores poderão trabalhar sobre o mesmo material e só estes terão acesso aos documentos. A tradução de documentos oficiais e de natureza jurídica ou fiscal está excluída.
+Adicionalmente, a plataforma poderia ainda priorizar as traduções com base em indicadores de procura nos diversos mercados mundiais. Por exemplo, verificando-se um aumento da procura e retoma no mercado chinês superior à de outros mercados, a plataforma poderia sugerir a tradução dos materiais na língua chinesa e enviar convocatórias a tradutores especialistas neste idioma.
+
+ID: 484
+Description: Em lugares com muitas habitações, como por exemplo em bairros, é complicado manter as pessoas em casa e, à medida que o tempo passa ficarão mais aborrecidas por terem de estar confinadas. Mas e, se nestes mesmo locais fossem projectados filmes, curtas-metragens, concertos ou espectáculos de dança?
+E, se nestas mesmas ruas desertas fosse possível um bailarino (por exemplo, um por dia) de diversos géneros animar aquelas pessoas?
+Alargando a ideia, e se a uma hora especifica fosse feito um jogo em comunidade, com profissionais de actividades lúdicas a coordenar e as pessoas da janela a participarem.
+
+ID: 487
+Description: Plataforma online de acesso gratuito a aconselhamento especializado sobre refeições diárias nutricionalmente equilibradas e de reforço imunitário, com receitas para cada dia da semana adequadas para várias faixas etárias e opções dietéticas, e sobre suplementação alimentar e fitoterápica de qualidade para reforço imunitário, emocional e psicológico, fornecido por um nutricionista e por um naturopata. A plataforma não permite a venda dos suplementos. Há um "chat bot" que permitirá responder a questões.
+
+
+ID: 516
+Description: Como ocupar o tempo livre que temos e ajudar quem mais precisa?Grupo de voluntários e associações (orfanatos, apoios a sem-abrigo...) que, por zonas, recolhem os objetos e as roupas que apenas estão a ocupar espaço na nossa casa!
+. 
+
+ID: 546
+Description: Pretende-se de uma forma simples ajudar as famílias a poderem escolher um computador muito barato para as crianças poderem estudar de forma remota. Actualmente existem alternativas de computadores que serviriam para esta função por cerca de 50 euros.
+A ajuda deve compreeender os seguintes aspectos:
+1) Mini Site com:
+- recomendaçao de 2 modelos e onde comprá-los (um modelo melhor, tal como o Raspberry Pi (50 Eur); outro modelo mais barato <30eur)
+Edit: o Filipe sugeriu analisar se um dos modelos poderia ser o Magalhaes pois devem existir milhares de Magalhães encostados que poderiam ser doados.
+- tutorials com instruções para configuração e instalação desses 2 modelos
+2) plataforma para anunciar quem esteja disponivel para doar ratos, teclados ou monitores, por cidade/zona do país e se possa combinar essa oferta de forma directa entre quem dá e quem recebe
+
+Edit: já existe uma iniciativa http://studentkeep.org/ que abrange a plataforma da doação, embora nao seja numa perspectiva de transacção directa. Continua a faltar uma página web que ajude as famílias que queiram adquirir um computador super barato
+
+ID: 547
+Description: Numa altura em que pequenos restaurantes e cafés de bairro se vêm forçados a fechar portas e recorrer ao takeaway, muitos ficam reticentes sobre os custos em que podem incorrer sem saber se o retorno é viável.
+Por outro lado, temos os profissionais que perderam o emprego, temporária ou permanentemente, e que se veem impossibilitados de pagar as contas no fim do mês.
+
+A solução: pagar refeições a estes estabelecimentos e doá-las a quem delas sente falta.
+O objetivo seria criar uma plataforma constituída por três vertentes:
+• a primeira, para os cafés/pastelarias/restaurantes que necessitassem de ajuda. Estes estabelecimentos submeteriam dados como morada, menu, e até meios de distribuição que tivessem disponíveis.
+• a segunda, para quem viu os seus rendimentos comprometidos ou profissionais de segurança e saúde. Estas pessoas submeteriam um pedido de ajuda, fornecendo dados como morada, dimensão do agregado familiar, alergias e preferências alimentares.
+• a terceira, para qualquer pessoa que queira ajudar. Nesta fase, uma pessoa pode decidir doar qualquer quantia monetária através de uma transferência que será depositada no mealheiro da "pay it forward".
+a ligação entre os três é feita manualmente, remotamente, por alguém que aloca os donativos aos respetivos pares estabelecimento/necessitado.
+
+ID: 548
+Description: Substituir o sistema de fila, por um sistema de senhas na entrada dos supermercados. Possível adaptação do sistema a uma APP, sem necessidade de senha física. Visor com número à entrada e com chamada. Controle automático do número de pessoas dentro do espaço comercial.
+
+ID: 549
+Description: Criação de uma plataforma com algumas editoras online para ajudarem a editar livros enviados em PDF e a venda dos mesmos. Esse plataforma também terá alguns workshops de literatura e de como escrever livros,guiões etc
+
+ID: 611
+Description: Embora já existam promessas do governo em relação à ajuda financeira, elas não serão suficientes para manter a economia a funcionar, principalmente para trabalhadores independentes e pequenas empresas (exemplos: cabeleireiros, fisioterapeutas, pet shops, dentistas, etc).O objetivo do site https://www.weareinthistogether.pt é ajudar trabalhadores independentes e proprietários de pequenas empresas, que não podem exercer a sua atividade neste momento, a receber o pagamento antecipado de seus serviços através da venda de créditos. Desta forma, as pessoas que frequentemente utilizam estes serviços podem adquirir créditos para uso num futuro próximo.IMPORTANTE: Este site NÃO visa retorno financeiro. Os pagamentos são feitos diretamente entre cliente e fornecedor SEM COBRANÇA de qualquer taxa.https://www.weareinthistogether.pt
+
+ID: 643
+Description: Vivemos , cada vez mais, com sentimentos de ansiedade, stress, frustação, incerteza e medo, medo das mais variadas coisas. O medo já é inerente às pessoas, todos temos medo de algo mas no entanto o medo e a ansiedade que vivemos agora é diferente.Eu sou uma pessoa que aprendeu a cuidar, sim os enfermeiros não tratam das pessoas, os enfermeiros cuidam das pessoas nas suas mais variáveis vertentes. O que nos define enquanto pessoas é por sermos um ser bio-psico-social, ou seja, com a vertente física, psicologica/mental e social e só quando todas se encontram estáveis e equilabradas é que nos sentimos bem, ou seja, é quando estamos saudáveis e plenos.Enquanto enfermeiros o nosso cuidar é dirigido para a prevenção de doenças e educação para a saúde,( mais informação e informação esclarecida sobre saúde, melhores decisões para si as pessoas podem tomar) ou no processo de cura. A maioria dos meus colegas enfermeiros, que admiro muito, a quem peço que não lhes falte a força e a determinação e coragem, com que todos os dias saem de casa para ir cuidar. Embora, não esteja convosco confio e admiro muito o vosso cuidar, sim os enfermeiros não trabalham cuidam e cuidam e cuidam (propositadamente repetido) e o que é o cuidar? Para mim, são todas as ações realizadas com a intenção de levar a pessoa a ter um bem-estar equilibrado e que sejam felizes .Como eu disse, somos seres bio-psico-sociais, então a nível do bio posso e vou continuar a incentivar à prevenção de sintomas e de propagação do vírus e o esclarecimento de todas dúvidas que tenham, a nível mental e social entra toda a interação, partilha e publicações neste grupo. Somos seres inevitavelmente sociáveis, tal como todos os animais e como não podemos socializar fisicamente sem restrições, aqui no grupo podemos socializar sem restrições. E sim é muito importante socializarmos uns com os outros, por isso é que incentivo às partilhas, às publicações a tudo isso. A nível mental, estes tempos, este momento da histório provoca o aumento dos níveis de ansiedade e stress, como já referi. Assim, também através do grupo vou dando dicas do que fazerem pois estarmos confinados a um espaço é cada vez mais dificil e desesperante.
+
+ID: 737
+Description: Criar zonas de descontaminação quer para profissionais quer em zonas onde existam sem abrigo com sistema de aspersores.
+
+ID: 962
+Description: Apoiar os trabalhadores independentes a perceber todos os aspetos legais e de enquadramento da atividade que desenvolvem.
+
+ID: 1025
+Description: O algarvios.pt é um ponto de encontro entre os clientes e os fornecedores de produtos ou serviços do Algarve nestes tempos em que não podemos sair de casa, a economia obrigatoriamente tem de se reinventar.
+Por isso criamos uma plataforma que é ao mesmo tempo uma rede social de clientes e empresas onde uns e outros podem comprar e vender produtos e serviços, por exemplo um professor pode dar explicações online, porque a plataforma tem um sistema integrado de video conferencia, o aluno pode pagar essas aulas no sistema de pagamentos do site, ou um padeiro pode receber encomendas atendendo o seu cliente por video chamada, receber o pagamento online e ir fazer a entrega.
+Todos são clientes e fornecedores de qualquer produto ou serviço.
+O sistema é de utilização simplificada, para que qualquer pessoa sem conhecimentos de informática, possa ter uma loja online com videoconferência sem ter de despender dinheiro para a sua criação ou manutenção pagando apenas um percentagem referente ao valor das suas vendas.
+Esse valor pago serve também como contribuição para a continuidade, manutenção, desenvolvimento, e ampliação da plataforma.
+A plataforma vai ter concertos online, poesia online, aulas de artesanato, etc que funcionara como um Tv interactiva onde os utilizadores podem fazer donativos aos criadores, fazer comentários, interagir com os criadores e seguir os mesmos sempre que estes tenham novos vídeos.
+
+ID: 1089
+Description: A card that is a ticket for a line queue in any commercial space(RFID, NFC or QRcode) People register their turn by swiping these or Online, than receive an SMS with their number and updates on the Q!
+
