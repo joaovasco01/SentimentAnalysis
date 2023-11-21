@@ -77,3 +77,119 @@ plt.xticks([r + bar_width/2 for r in range(0, len(df_merged['id']), 5)])  # Adju
 # Create legend & Show plot
 plt.legend()
 plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.cluster import KMeans
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+
+# Text Preprocessing
+def preprocess_text(text):
+    return text.lower()
+
+# Apply preprocessing to the descriptions
+df_ideas['processed_description'] = df_ideas['description'].apply(preprocess_text)
+
+# Vectorize the text descriptions
+vectorizer = TfidfVectorizer(stop_words='english')
+X = vectorizer.fit_transform(df_ideas['processed_description'])
+
+# Cluster the ideas based on their vectorized descriptions
+kmeans = KMeans(n_clusters=6, random_state=42)
+df_ideas['cluster'] = kmeans.fit_predict(X)
+
+# Visualization
+plt.figure(figsize=(12, 8))
+palette = sns.color_palette("hsv", n_colors=6)
+sns.scatterplot(data=df_ideas, x='id', y='cluster', hue='cluster', palette=palette, s=100, legend='full')
+plt.title('Clustering of Ideas Based on Descriptions')
+plt.xlabel('Idea ID')
+plt.ylabel('Cluster')
+plt.legend(title='Cluster')
+plt.show()
+
+# Identify the most common cluster
+most_common_cluster = df_ideas['cluster'].value_counts().idxmax()
+
+# Filter the DataFrame to get IDs and descriptions of ideas in the most common cluster
+most_common_cluster_data = df_ideas[df_ideas['cluster'] == most_common_cluster][['id', 'description']]
+
+# Write the IDs and descriptions to a file
+with open('cluster_descriptions.txt', 'w') as file:
+    id_list = []
+    for index, row in most_common_cluster_data.iterrows():
+        id_list.append(row['id'])
+        file.write(f"ID: {row['id']}\nDescription: {row['description']}\n\n")
+
+print("IDs and descriptions of ideas in the most common cluster have been written to 'cluster_descriptions.txt'")
+print(id_list)
+
+
+# from sklearn.feature_extraction.text import TfidfVectorizer
+# from sklearn.cluster import KMeans
+# import seaborn as sns
+
+# # Text Preprocessing
+# def preprocess_text(text):
+#     return text.lower()
+
+# # Apply preprocessing to the descriptions
+# df_ideas['processed_description'] = df_ideas['description'].apply(preprocess_text)
+
+# # Vectorize the text descriptions
+# vectorizer = TfidfVectorizer(stop_words='english')
+# X = vectorizer.fit_transform(df_ideas['processed_description'])
+
+# # Cluster the ideas based on their vectorized descriptions
+# kmeans = KMeans(n_clusters=5, random_state=42)
+# df_ideas['cluster'] = kmeans.fit_predict(X)
+
+# # Merge the ideas DataFrame with the aggregated comments sentiment scores
+# df_merged = pd.merge(df_ideas, comments_sentiment, on='id', how='left')
+
+# # Visualization: Scatter Plot for Clusters
+# plt.figure(figsize=(12, 8))
+# palette = sns.color_palette("hsv", n_colors=len(df_ideas['cluster'].unique()))
+# sns.scatterplot(data=df_merged, x='id', y='cluster', hue='cluster', palette=palette, s=100, legend='full')
+# plt.title('Clustering of Ideas Based on Descriptions')
+# plt.xlabel('Idea ID')
+# plt.ylabel('Cluster')
+# plt.legend(title='Cluster')
+# plt.show()
+
+
+
+
+
+# # Identify the most common cluster
+# most_common_cluster = df_merged['cluster'].index[0]
+
+# # Filter the DataFrame to get IDs and descriptions of ideas in the most common cluster
+# most_common_cluster_data = df_merged[df_merged['cluster'] == most_common_cluster][['id', 'description']]
+
+# # Write the IDs and descriptions to a file
+# with open('cluster_descriptions.txt', 'w') as file:
+#     for index, row in most_common_cluster_data.iterrows():
+#         list.append(row['id'])
+#         file.write(f"ID: {row['id']}\nDescription: {row['description']}\n\n")
+
+# print("IDs and descriptions of ideas in the most common cluster have been written to 'cluster_descriptions.txt'")
+# print(list)
+# [324, 361, 515, 642, 769]
+# service [100, 101, 144, 152, 155, 157, 185, 193, 194, 196, 197, 230, 261, 262, 263, 267, 295, 299, 301, 311, 358, 359, 385, 386, 417, 418, 420, 423, 425, 427, 449, 450, 453, 455, 456, 457, 459, 482, 483, 481, 484, 485, 487, 546, 547, 549, 609, 673, 706, 961, 962, 1025, 1057, 1121]
