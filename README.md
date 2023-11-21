@@ -1,4 +1,4 @@
-## Sentiment Analysis of Ideas and Comments
+## Sentiment Analysis of Ideas and Comments (1.1 innovation.py)
 
 ### Overview
 In this project, we explore the emotions and opinions expressed in ideas and comments using sentiment analysis. The script is written in Python, leveraging libraries like `pandas`, `BeautifulSoup`, and `NLTK`.
@@ -32,7 +32,7 @@ The resulting plot provides a visual representation of the sentiments associated
 
 The graphical analysis suggests that the sentiment scores of idea descriptions are more variable compared to the average sentiment of the comments. This observation might stem from the tendency of idea descriptions to be more expressive or exaggerated in nature, resulting in a wider range of sentiment scores. This contrast highlights how different modes of expression (ideas vs. comments) can vary in emotional intensity and variability.
 
-
+### 1.2 Currently being updated
 
 # Part II - Data Analysis
 
