@@ -103,6 +103,50 @@ The trend of review helpfulness over time was plotted to observe how the average
 
 <img width="630" alt="Screen Shot 2023-11-21 at 7 14 24 PM" src="https://github.com/joaovasco01/SentimentAnalysis_Ideas-Comments/assets/61276111/ce736650-7903-43bc-b5b9-a2763c14b4da">
 
+
 Overall Decline: Following the initial peak, there is a general downward trend in the average number of helpful votes over time. This trend suggests that reviews are considered less helpful by users or that users are less inclined to vote on the helpfulness of reviews as time progresses.
+
+
+
+
+# Review Helpfulness Prediction Model
+
+## Model Summary
+
+A binary classification model was built to predict whether an Amazon product review will be considered helpful. The helpfulness label was defined as binary, with reviews receiving more than 5 votes considered helpful (labeled as 1), and all others considered not helpful (labeled as 0).
+
+## Code and Results
+
+The model was trained using the following steps:
+
+- Reviews with more than 5 helpful votes are labeled as 1 (helpful), else 0 (not helpful).
+- The feature used for prediction is the review text.
+- TF-IDF vectorization is applied to convert text to numeric features, limited to 3 features for simplicity.
+- A RandomForestClassifier is used for training.
+- The dataset is split into 80% training and 20% testing sets.
+
+The classification report from the model is as follows:
+
+              precision    recall  f1-score   support
+
+           0       0.89      0.99      0.94     81337
+           1       0.45      0.07      0.13     10551
+
+    accuracy                           0.88     91888
+   macro avg       0.67      0.53      0.53     91888
+weighted avg       0.84      0.88      0.84     91888
+
+## Evaluation
+
+The model shows high precision for class 0 (not helpful), but low precision and recall for class 1 (helpful), indicating a model bias towards predicting not helpful reviews.
+
+## Ideas for Improvement
+
+- **Balancing the Dataset:** The dataset is highly imbalanced, with most reviews having 0 votes. This imbalance can lead to biased results, which is evident from the precision and recall scores. Techniques like SMOTE, undersampling, or assigning class weights in the model could be explored to address this imbalance.
+- **Incorporating More Features:** Although the current model uses only 3 features due to computational constraints, including more features such as the length of the review, the sentiment score, and the time of the review could potentially improve the model's performance.
+- **Preventing Overfitting:** Care must be taken not to overfit the model when adding more features. Cross-validation and regularization techniques should be used to ensure the model generalizes well to unseen data.
+- **Additional Resources:** With more computational power and time, a more thorough grid search for hyperparameter tuning could be conducted, and more complex models or ensemble methods could be tested.
+
+By addressing these points, we could improve the model's ability to accurately predict the helpfulness of reviews.
 
 
