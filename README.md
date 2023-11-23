@@ -37,12 +37,14 @@ The graphical analysis suggests that the sentiment scores of idea descriptions a
 ## Sentiment Analysis Results
 
 ### English Text Sentiment
+- **text = "We could involve the medical order and the nursing order in the identification of their professionals who are in quarantine and available to do teleconsultations."
 - **Negative Sentiment Probability:** 0.0596
 - **Neutral Sentiment Probability:** 0.8874
 - **Positive Sentiment Probability:** 0.0529
 - **Interpretation:** The sentiment of the English text is predominantly neutral.
 
 ### Portuguese Text Sentiment
+- **textpt = "Poderíamos envolver a ordem dos médicos e a ordem dos enfermeiros na identificação dos seus profissionais que estão de quarentena e disponíveis para fazer teleconsultas."
 - **Negative Sentiment Probability:** 0.0489
 - **Neutral Sentiment Probability:** 0.9181
 - **Positive Sentiment Probability:** 0.0329
