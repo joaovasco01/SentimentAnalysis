@@ -1,4 +1,4 @@
-## Sentiment Analysis of Ideas and Comments (1.1 innovation.py)
+# Sentiment Analysis of Ideas and Comments (1.1 innovation.py)
 
 ### Overview
 In this project, we explore the emotions and opinions expressed in ideas and comments using sentiment analysis. The script is written in Python, leveraging libraries like `pandas`, `BeautifulSoup`, and `NLTK`.
@@ -53,7 +53,7 @@ For this analysis, I utilized the pretrained model from [pysentimiento/bertweet-
 
 
 
-### 1.2 Currently being updated
+# 1.2 Currently being updated
 
 # Part II - Data Analysis
 
