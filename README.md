@@ -32,6 +32,27 @@ The resulting plot provides a visual representation of the sentiments associated
 
 The graphical analysis suggests that the sentiment scores of idea descriptions are more variable compared to the average sentiment of the comments. This observation might stem from the tendency of idea descriptions to be more expressive or exaggerated in nature, resulting in a wider range of sentiment scores. This contrast highlights how different modes of expression (ideas vs. comments) can vary in emotional intensity and variability.
 
+
+## Own Research PreTrainedPortugueseAnalysis.py
+## Sentiment Analysis Results
+
+### English Text Sentiment
+- **Negative Sentiment Probability:** 0.0596
+- **Neutral Sentiment Probability:** 0.8874
+- **Positive Sentiment Probability:** 0.0529
+- **Interpretation:** The sentiment of the English text is predominantly neutral.
+
+### Portuguese Text Sentiment
+- **Negative Sentiment Probability:** 0.0489
+- **Neutral Sentiment Probability:** 0.9181
+- **Positive Sentiment Probability:** 0.0329
+- **Interpretation:** The sentiment of the Portuguese text is predominantly neutral.
+
+For this analysis, I utilized the pretrained model from [pysentimiento/bertweet-pt-sentiment](https://huggingface.co/pysentimiento/bertweet-pt-sentiment) ([Research Paper](https://arxiv.org/abs/2106.09462)). This decision was motivated by the need to ensure accuracy in sentiment analysis of Portuguese texts. My objective was to verify if the existing sentiment analysis tool was appropriate for Portuguese descriptions. The results from the pretrained model confirmed that the previous sentiment analysis was accurate, affirming its suitability for our project. It was done to re-assure the results I had previously on the sentiment of each description, since the results were pretty similar there is no need for changes on innovation.py.
+
+
+
+
 ### 1.2 Currently being updated
 
 # Part II - Data Analysis
