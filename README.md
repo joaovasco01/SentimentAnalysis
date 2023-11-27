@@ -57,6 +57,55 @@ For this analysis, I utilized the pretrained model from [pysentimiento/bertweet-
 
 # 1.2 Currently being updated
 
+## Overview
+This project involves classifying a set of innovation ideas into various categories such as products, services, business models, and others. The initial approach was to use clustering techniques to group similar ideas.
+
+## Initial Approach (innovation.py commented at the end)
+1. **Clustering with KMeans**: 
+   - Applied TF-IDF vectorization to preprocess the idea descriptions.
+   - Used KMeans clustering to group ideas into 6 clusters.
+   - Visualized the clusters with a scatter plot.
+   - Identified the different clusters and manually analyzed each group to label them (e.g., services, products).
+
+## Image of Clustering groups
+
+<img width="1196" alt="Screen Shot 2023-11-27 at 1 02 27 AM" src="https://github.com/joaovasco01/SentimentAnalysis/assets/61276111/8e5fa2f9-097e-4ec3-bd02-31a3d6e0dd9d">
+
+
+## Example Cluster Labeling
+One of the clusters, identified by IDs [100, 101, 130, 135, 155, 153, 186, 193, 194, 196, 197, 226, 227, 228, 230, 258, 262, 268, 289, 293, 295, 299, 301, 321, 322, 324, 358, 362, 385, 386, 417, 418, 423, 424, 425, 427, 428, 452, 453, 455, 456, 457, 482, 483, 481, 484, 487, 516, 546, 547, 548, 549, 611, 643, 737, 962, 1025, 1089]  was labeled as 'service', and the other clusters would also be analyzed manually and get a innovation type attributed. The process involved manual analysis of the groups to determine appropriate labels.
+
+
+## Supervised Learning Approach After Unsupervised Clustering
+
+After the initial clustering process, I found myself dissatisfied with the results of the unsupervised learning approach. This led me to pivot towards a supervised learning strategy. 
+
+## Creation of a New Dataset
+
+I embarked on creating a new dataset, utilizing GPT for the generation process, where I generated innovation types labeled. This approach was taken with the intent to train a model more effectively, tailored to the specific requirements of the task at hand.
+
+## Training with Support Vector Classifier (SVC)
+
+With the newly created dataset in hand, I opted to train my model using the Support Vector Classifier (SVC) method. This decision was driven by SVC's known efficacy in handling similar classification tasks.
+
+## Testing and Reflections
+
+The trained model was then tested on the `ideas.json` file. Despite the rigorous process, the results did not align with my expectations. In retrospect, a larger and more diverse dataset might have significantly enhanced the model's performance.
+
+
+## Shift to Advanced Techniques
+Still dissatisfied with the results, the project shifted towards using advanced NLP models for better classification.
+
+### Zero-Shot Classification
+To further enhance the classification, the project adopted zero-shot learning techniques. Zero-shot learning models, like `facebook/bart-large-mnli`, can classify text into categories without explicit training on those categories. This approach offers flexibility and reduces the need for a large labeled dataset.
+
+## Results (innovation12bert.py) Full Results are in Bert_results.txt
+This were some of the results, they were much better and i was finally happy with the labelling, the full results are in Bert_results.txt  I can finally say I can move on to the next one :)
+
+<img width="1335" alt="Screen Shot 2023-11-27 at 12 52 09 AM" src="https://github.com/joaovasco01/SentimentAnalysis/assets/61276111/1ac4fc12-c683-4e90-ba73-a332c867addd">
+
+
+
 # Part II - Data Analysis
 
 ## Overview
