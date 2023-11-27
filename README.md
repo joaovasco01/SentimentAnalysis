@@ -55,7 +55,7 @@ For this analysis, I utilized the pretrained model from [pysentimiento/bertweet-
 
 
 
-# 1.2 Currently being updated
+# 1.2 innovation12bert.py
 
 ## Overview
 This project involves classifying a set of innovation ideas into various categories such as products, services, business models, and others. The initial approach was to use clustering techniques to group similar ideas.
