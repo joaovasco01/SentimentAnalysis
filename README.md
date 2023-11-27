@@ -82,7 +82,7 @@ After the initial clustering process, I found myself dissatisfied with the resul
 
 ## Creation of a New Dataset
 
-I embarked on creating a new dataset, utilizing GPT for the generation process, where I generated innovation types labeled. This approach was taken with the intent to train a model more effectively, tailored to the specific requirements of the task at hand.
+I embarked on creating a new dataset, utilizing GPT for the generation process (innovation_ideas.txt) , where I generated innovation types labeled. This approach was taken with the intent to train a model more effectively, tailored to the specific requirements of the task at hand.
 
 ## Training with Support Vector Classifier (SVC)
 
