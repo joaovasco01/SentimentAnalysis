@@ -1,0 +1,111 @@
+id,innovation_type
+97,product
+100,product
+101,service
+102,service
+129,service
+130,business model
+132,service
+133,product
+135,service
+144,work practice change
+152,service
+155,service
+157,service
+153,service
+173,product
+154,product
+185,product
+186,service
+187,product
+193,work practice change
+194,service
+196,product
+197,product
+226,service
+227,service
+228,service
+230,service
+231,service
+258,product
+259,product
+261,work practice change
+262,service
+263,product
+264,work practice change
+267,product
+268,marketing
+289,service
+292,service
+293,service
+294,product
+295,service
+299,service
+301,service
+321,product
+322,product
+311,service
+324,service
+355,product
+357,service
+358,work practice change
+359,cost saving
+360,service
+361,service
+362,service
+364,product
+385,product
+386,product
+417,product
+418,product
+420,product
+423,business model
+424,work practice change
+425,product
+426,business model
+427,service
+428,service
+449,service
+450,service
+452,service
+453,product
+454,work practice change
+455,product
+456,product
+457,product
+459,product
+482,service
+483,product
+481,service
+484,product
+485,work practice change
+487,service
+513,work practice change
+515,service
+516,service
+517,work practice change
+546,service
+547,business model
+548,product
+549,product
+609,product
+610,service
+611,service
+612,business model
+641,service
+642,service
+643,product
+673,service
+706,product
+737,work practice change
+769,service
+833,service
+865,product
+929,business model
+961,cost saving
+962,work practice change
+963,service
+1025,service
+1057,service
+1089,service
+1121,service
