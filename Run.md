@@ -64,7 +64,7 @@ The `Part I` folder contains the following files:
     python3 innovation.py
     ```
   
-  - To run the solution for 1.2`innovation12bert.py`:
+  - To run the solution for 1.2 `innovation12bert.py`:
     ```bash
     python3 innovation12bert.py
     ```
