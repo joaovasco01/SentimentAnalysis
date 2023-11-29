@@ -40,6 +40,10 @@ pip3 install scikit-learn
 
 ## Running the Code
 
+#### Steps to Run:
+
+- **Update File Paths**: Change the file_path in all the scripts. Replace `/Users/joaovasco/Desktop/Part I/` with your local directory path.
+
 ### Part I
 
 The `Part I` folder contains the following files:
@@ -54,8 +58,6 @@ The `Part I` folder contains the following files:
 - `innovation_ideas.txt`
 
 #### Steps to Run:
-
-- **Update File Paths**: Change the file_path in all the scripts. Replace `/Users/joaovasco/Desktop/Part I/` with your local directory path.
 
 - **Running Scripts**:
   
