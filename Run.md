@@ -42,7 +42,7 @@ pip3 install scikit-learn
 
 #### Steps to Run:
 
-- **Update File Paths**: Change the file_path in all the scripts. Replace `/Users/joaovasco/Desktop/Part I/` with your local directory path.
+- **Update File Paths**: Change the "file paths" in all the scripts. Replace `/Users/joaovasco/Desktop/Part I/` with your local directory path.
 
 ### Part I
 
