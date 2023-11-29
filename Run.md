@@ -59,12 +59,12 @@ The `Part I` folder contains the following files:
 
 - **Running Scripts**:
   
-  - To run `innovation.py`:
+  - To run the solution for 1.1 `innovation.py`:
     ```bash
     python3 innovation.py
     ```
   
-  - To run `innovation12bert.py`:
+  - To run the solution for 1.2`innovation12bert.py`:
     ```bash
     python3 innovation12bert.py
     ```
@@ -89,12 +89,12 @@ The `Part2` folder contains:
 
 - **Running Scripts**:
 
-  - To run `21.py`:
+  - To run the solution for 2.1 `21.py`:
     ```bash
     python3 21.py
     ```
   
-  - To run `22.py`:
+  - To run the solution for 2.2 `22.py`:
     ```bash
     python3 22.py
     ```
